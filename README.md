@@ -12,7 +12,7 @@
 ![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=Budrow661&show_icons=true&theme=radical)
 
 ## 📫 Как со мной связаться
-- Email: [ваш_email@example.com](mailto:mrmixa.02@mail.ru)
+- Email: [mrmixa.02@mail.ru](mailto:mrmixa.02@mail.ru)
 
 ## 🌟 Проекты
 - [Проект 1](https://github.com/ваш_username/проект_1): Краткое описание проекта.
